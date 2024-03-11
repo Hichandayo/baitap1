@@ -1,0 +1,27 @@
+form {
+    background-color: rgb(238, 191, 138);
+    padding-left: 20px;
+}
+
+body {
+    margin: auto;
+    width: 400px;
+}
+
+p {
+    background-color: rgb(158, 180, 216);
+    text-align: center;
+}
+
+.input-address {
+    width: 200px;
+    height: 40px;
+}
+
+.form-flex {
+    display: flex;
+}
+
+.padding-right {
+    padding-right: 40px;
+}
